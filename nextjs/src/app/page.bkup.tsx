@@ -1,7 +1,14 @@
+
+/**
+ * This is a backup of the original page.tsx file.
+ * Next.js uses ./src/app/page.tsx as the default page.
+ * Renaming this file to page.bkup.tsx will allow Next.js to look for the default page in ./src/pages/index.tsx..
+ */
+
 import Image from 'next/image'
 
 import { Col, Row } from '../lib/bootstrap'
-import { CodeBlock } from '@/components/common/Code'
+import { CodeBlock } from '@/components/basic/common/Code'
 
 export default function Home() {
   return (

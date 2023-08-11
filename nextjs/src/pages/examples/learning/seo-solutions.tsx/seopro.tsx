@@ -118,4 +118,3 @@ export  const SeoJsonLdPage = ({jsonLd, data}: any) => {
 
 export default SeoJsonLdPage;
 
-
